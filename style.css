@@ -33,10 +33,18 @@ body {
 }
 
 #reset {
-    width:50px;
+    width:60px;
     margin-left:49%;
     margin-right:50%;
     margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+#reset:hover {
+  background-color: darkblue;
 }
 
 #footer {
