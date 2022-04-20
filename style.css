@@ -19,11 +19,11 @@ body {
 .boxes { 
     border: 1px solid black;
     width: 20px;
-    height: 20px
+    height: 20px;
 }
 
 .boxes-painted {
-    background-color: green;
+    background-color: black;
 }
 
 #title {
@@ -37,4 +37,9 @@ body {
     margin-left:49%;
     margin-right:50%;
     margin-bottom: 10px;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 20px
 }
